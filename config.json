@@ -1,0 +1,9 @@
+{
+    "model_name": "MobileNetV2",
+    "img_size": [
+        224,
+        224
+    ],
+    "test_accuracy": 0.8548387096774194,
+    "test_f1_macro": 0.8360270349691449
+}
